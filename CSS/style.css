@@ -1,7 +1,7 @@
 body{
     background-color: rgb(146, 173, 173);
 }
-p{
+/* p{
     background-color: rgb(236, 112, 112);
     color: white;
 }
@@ -12,4 +12,36 @@ h2{
 .footer{
     background-color: rgb(99, 99, 242);
     color: white;
-}
+} */
+ /* div~p{
+    background-color: aquamarine;
+ } */
+ /* p:hover{
+    font-size: ;
+ } */
+  /* p::after{
+    font-size: x-large;
+    content:" abes engineering";
+    background-color:rgb(247, 165, 11);
+    color: white;
+  } */
+  /* p::before{
+    font-size: x-large;
+    content:" We are the student od 3rd year";
+    background-color:rgb(9, 131, 231);
+    color: white;
+
+
+  } */
+  p::selection{
+    background-color: chartreuse;
+
+  }
+  p:nth-child(2){
+    background-color: black;
+    color: white;
+  }
+  div p:nth-of-type(1){
+    background-color: aqua;
+    font-size: xx-large;
+  }
