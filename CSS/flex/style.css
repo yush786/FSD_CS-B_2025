@@ -1,0 +1,37 @@
+/* body{
+    background-color: rgb(238, 144, 21);
+} */
+ .parents{
+    display: flex;
+    background-color: chartreuse;
+    border: 1px solid rgb(241, 216, 184);
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+ }
+ .child1{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    border: 1px dotted rgb(21, 21, 213);
+
+ }
+ .child2{
+    height: 200px;
+    width: 200px;
+    background-color: brown;
+    border: 1px dotted rgb(210, 184, 188)
+ }
+ .child3{
+height: 200px;
+    width: 200px;
+    background-color: chocolate;
+    border: 1px dotted white
+ }
+ .child4{
+height: 200px;
+    width: 200px;
+    background-color: rgb(246, 17, 55);
+    border: 1px dotted burlywood
+ }

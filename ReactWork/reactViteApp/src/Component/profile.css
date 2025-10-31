@@ -1,0 +1,15 @@
+.profile-container{
+    border: 4px solid rgb(32, 241, 203);
+    height: 500px;
+    width: 350px;
+    text-align: center;
+    background-color: rgb(9, 43, 72);
+    color: rgb(134, 225, 245);
+    margin: auto;
+    text-decoration: underline;
+}
+.content{
+    
+    color: red
+    ;margin-top: 30px;
+}
